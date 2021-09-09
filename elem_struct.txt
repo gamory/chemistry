@@ -1,0 +1,16 @@
+\textbf{Melting point}
+\textbf{Boiling point}
+\\
+\textbf{Density}  g cm\textsuperscript{-3}\\
+\textbf{Relative atomic mass} \\
+\textbf{Electron configuration} \\
+\textbf{Elemental group} \\
+\textbf{Elemental period} \\
+\textbf{Elemental block} \\
+\textbf{Key isotopes} \\
+\textbf{CAS number} \\
+\\
+\textbf{Atomic radius, non-bonded}  Å\\
+\textbf{Covalent radius}  Å\\
+\textbf{Electronegativity (Pauling scale)} \\
+\textbf{Electron affinity}  (kJ mol\textsuperscript{-1})\\

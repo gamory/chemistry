@@ -1,0 +1,9 @@
+\section{}
+\label{sec:chem-}
+\subsection{Properties}
+\textbf{Melting point} \\
+\textbf{Boiling point} \\
+\\
+\textbf{Relative atomic mass} \\
+\textbf{CAS number} \\
+\\

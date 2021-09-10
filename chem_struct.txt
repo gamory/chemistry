@@ -7,3 +7,6 @@
 \textbf{Relative atomic mass} \\
 \textbf{CAS number} \\
 \\
+\subsection{Chemical incompatibilities}
+\\
+\subsection{Warnings}
